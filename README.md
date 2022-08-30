@@ -1,7 +1,5 @@
-<a href='https://jong6598.tistory.com/' target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-
 <h3 align="left">📨 How to reach me:</h3> 
+<a href='https://jong6598.tistory.com/' target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 jong6598@naver.com
 
 <h3 align="left">👀 Github stats:</h3> 

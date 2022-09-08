@@ -4,6 +4,15 @@
 <h3 align="left">📨 How to reach me:</h3> 
 jong6598@naver.com
 
+<div>
+<h3 align="left">✏️ Learning Now:</h3> 
+<img src="https://img.shields.io/badge/javascript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react query&logoColor=white">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</div>
+
+
 <h3 align="left">👀 Github stats:</h3> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jong6598&show_icons=true&theme=radical)

@@ -1,4 +1,4 @@
-<h3 align="left">Tech Blog 🌐</h3> 
+<h3 align="left">🌐 Tech Blog </h3> 
 <a href='https://jong6598.tistory.com/' target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <h3 align="left">📨 How to reach me:</h3> 
